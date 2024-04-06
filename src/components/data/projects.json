@@ -1,0 +1,26 @@
+[
+  {
+    "key": 1,
+    "title": "Food-Delivery Web App",
+    "imageSrc": "assets/projects/food_delivery.jpg",
+    "description": "Providing streamlined solution for ordering food. Uses Swiggy Live API for fetching food items and ReduxJs for cart functionality.",
+    "demo": "https://eatfoodmore.netlify.app/",
+    "source": "https://github.com/brijwasiharshit/EatMore-Food-Delivery"
+  },
+  {
+    "key": 2,
+    "title": "Event Booking Website",
+    "imageSrc": "assets/projects/bookusnow.png",
+    "description": "Event booking application built with ReactJs, Tailwind CSS and other libraries. Uses cool features such as lazy loading to efficieny load data from custom API.",
+    "demo": "https://bookgroveshow.netlify.app/",
+    "source": "https://github.com/brijwasiharshit/GyanGroveAssignment"
+  },
+  {
+    "key": 3,
+    "title": "Music Streaming Web Application",
+    "imageSrc": "https://cdn.pixabay.com/photo/2017/05/02/15/30/streets-2278471_640.jpg",
+    "description": "music streaming web application built with ReactJS, seamlessly harnessing the power of the YouTube API for an extensive library of tracks and videos",
+    "demo": "",
+    "source": ""
+  }
+]

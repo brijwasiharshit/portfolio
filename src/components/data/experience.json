@@ -1,0 +1,15 @@
+[
+  {
+    "id": 1,
+    "role": "Intern : Front-End developer",
+    "organisation": "Yuvayana Tech and Craft Pvt. Ltd.",
+    "startDate": "Sept, 2023 - ",
+    "endDate": "Present",
+    "location": "UP, India",
+    "experiences": [
+      "Worked on Creating Responive websites using ReactJs, and MUI.",
+      "Worked on Wordpress Plugin Development"
+    ],
+    "imageSrc": "company/yuvayana.png"
+  }
+]
